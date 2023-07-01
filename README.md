@@ -25,10 +25,10 @@ Pie Chart that shows the distribution of sales across different pizza size.This 
 
 ->Total pizzas Sold by Pizza Category:
 Create funnel Chart taht presents the total number sold for each pizza category.This cchart will allow us to compare the sales performance of different pizza categories.
+
 ->Top 5 Best Sellers by Total Pizzas Sold:
-Bar Chart highlighting the top 5 best-selling pizzas based on the total number of pizza sold.This 
-chart will enable us to identify the most popular pizza options
+Bar Chart highlighting the top 5 best-selling pizzas based on the total number of pizza sold.This chart will enable us to identify the most popular pizza options
+
 ->Bottom 5 Worst Sellers by Total Pizzas Sold:
-Bar Chart highlighting the Bottom 5 worst-selling pizzas based on the total number of pizza sold,this 
-chart will enable us to identify underperforming or less popular pizza options
+Bar Chart highlighting the Bottom 5 worst-selling pizzas based on the total number of pizza sold,this chart will enable us to identify underperforming or less popular pizza options
 
